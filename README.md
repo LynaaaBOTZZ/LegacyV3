@@ -31,6 +31,7 @@ RUN
 ```bash
 npm start
 ```
+Kontol Memek
 use pairing code
 ```bash
 node system/index.js --pairing
